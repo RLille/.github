@@ -1,7 +1,6 @@
 # R Lille - R User Group  <a href="https://github.com/RLille/"><img src="https://github.com/RLille.png" align="right" width="120" /></a>
 
-> [!NOTE]
-> R Lille est le groupe des utilisateurs•rices de R de Lille (et sa région) et a été créé début février 2020.
+R Lille est le groupe des utilisateurs•rices de R de Lille (et sa région) et a été créé début février 2020.
 
 Vous utilisez R pour le travail et/ou le loisir ?  
 Vous êtes curieux, débutant ou expert en R ?  
@@ -15,8 +14,7 @@ Si la réponse est "oui" à l'une de ces questions, rejoignez-nous sans plus tar
 
 <details><summary><i>English version.</i></summary>
 
-> [!NOTE]
-> R Lille is the R user group located in Lille (North of France) and was created in February 2020.
+R Lille is the R user group located in Lille (North of France) and was created in February 2020.
 
 Do you use R for work and/or as a hobby?  
 Are you curious, a beginner or an R expert?  
